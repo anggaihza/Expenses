@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Hyang",
+    "nominal": 2500,
+    "category": "ccla",
+    "date": "2023-02-20"
+  },
+  {
+    "id": 2,
+    "name": "Ryuu",
+    "nominal": 3500,
+    "category": "ccla",
+    "date": "2022-02-15"
+  },
+  {
+    "id": 3,
+    "name": "Nikyy",
+    "nominal": 1500,
+    "category": "acla",
+    "date": "2020-07-14"
+  },
+  {
+    "id": 4,
+    "name": "Jack Ell",
+    "nominal": 3200,
+    "category": "ccla",
+    "date": "2019-04-14"
+  }
+]
